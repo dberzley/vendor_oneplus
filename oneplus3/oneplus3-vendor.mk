@@ -98,6 +98,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
     vendor/oneplus/oneplus3/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/oneplus/oneplus3/proprietary/lib/TC_Bayer_Converter_v6_core_opt.bin:system/lib/TC_Bayer_Converter_v6_core_opt.bin \
+    vendor/oneplus/oneplus3/proprietary/lib64/libfilter-sdk.so:system/lib64/libfilter-sdk.so \
+    vendor/oneplus/oneplus3/proprietary/lib64/libopbaselib.so:system/lib64/libopbaselib.so \
+    vendor/oneplus/oneplus3/proprietary/lib64/libopcamera.so:system/lib64/libopcamera.so \
+    vendor/oneplus/oneplus3/proprietary/lib64/libopcameralib.so:system/lib64/libopcameralib.so \
     vendor/oneplus/oneplus3/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/oneplus/oneplus3/proprietary/lib/libFNVfbEngineHAL.so:system/lib/libFNVfbEngineHAL.so \
     vendor/oneplus/oneplus3/proprietary/lib/libSensorManagerHAL.so:system/lib/libSensorManagerHAL.so \
