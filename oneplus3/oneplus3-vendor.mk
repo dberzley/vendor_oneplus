@@ -824,6 +824,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/vendor/lib64/soundfx/libqcbassboost.so:system/vendor/lib64/soundfx/libqcbassboost.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib64/soundfx/libqcreverb.so:system/vendor/lib64/soundfx/libqcreverb.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib64/soundfx/libqcvirt.so:system/vendor/lib64/soundfx/libqcvirt.so \
+    vendor/oneplus/oneplus3/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+    vendor/oneplus/oneplus3/proprietary/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
+    vendor/oneplus/oneplus3/proprietary/lib/libmediaplayerservice.so:system/lib/libmediaplayerservice.so \
+    vendor/oneplus/oneplus3/proprietary/lib64/libmediaplayerservice.so:system/lib64/libmediaplayerservice.so \
     vendor/oneplus/oneplus3/proprietary/vendor/qcril.db:system/vendor/qcril.db
 
 PRODUCT_PACKAGES += \
